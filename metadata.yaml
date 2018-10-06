@@ -19,5 +19,7 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Escritos políticos, económicos y literarios
 url: http://www.gutenberg.org/ebooks/47346
